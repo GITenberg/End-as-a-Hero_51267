@@ -1,0 +1,43 @@
+_repo: End-as-a-Hero_51267
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling
+    - Schelling, George L.
+    - Schelling, George Luther
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, Kit
+    - Laumer, John Keith
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- GITenberg
+title: End as a Hero
+url: http://www.gutenberg.org/ebooks/51267
